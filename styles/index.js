@@ -1,5 +1,5 @@
 // 1. Ask the user to enter a price tag
-let price = prompt("Enter the price tag:");
+let price = prompt("Enter the price tag (e.g., 49.99):");
 
 // 2. Convert the input from string to number
 let priceNumber = parseFloat(price);
